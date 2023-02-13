@@ -16,14 +16,18 @@
 }
 
 .title {
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
 }
 
 .text {
-    font-size: 16px;
+    font-size: 15px;
     text-align: center;
     margin: 0 0 30px;
     font-weight: 500;
     color: dimgrey;
+}
+
+.text-container {
+    max-width: 280px;
 }
