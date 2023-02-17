@@ -1,4 +1,4 @@
-# QR Code Component
+# QR Code Component - frontendmentor.io
  
 QR code component that displays well on desktop and mobile.
 
